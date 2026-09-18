@@ -24,6 +24,6 @@ Pastikan komputer kamu sudah terpasang:
 
 ### 1. Clone Repository & Install Dependencies
 ```bash
-git clone <URL_REPOSITORY_GITHUB_KAMU>
+git clone https://github.com/shafwany/test-transjakarta-cypress.git
 cd tes-transjakarta-cypress
 npm install
