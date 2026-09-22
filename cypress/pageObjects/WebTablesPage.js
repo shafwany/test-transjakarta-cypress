@@ -15,6 +15,7 @@ class WebTablesPage {
   // Actions
   visit() {
     cy.visit('/webtables');
+    cy.wait(1000)
   }
 
   clickAdd() {
